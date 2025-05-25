@@ -1,0 +1,18 @@
+{
+
+
+  "packageWeightAndSize": {
+    "dimensions": {
+      "height": 5,
+      "length": 10,
+      "width": 15,
+      "unit": "INCH"
+    },
+    "packageType": "MAILING_BOX",
+    "weight": {
+      "value": 2,
+      "unit": "POUND"
+    }
+  },
+
+}

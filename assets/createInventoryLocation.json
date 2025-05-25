@@ -1,0 +1,19 @@
+{
+  "location": {
+    "address": {
+      "addressLine1": "5520 Southampton Dr",
+      "addressLine2": "Springfield",
+      "city": "Springfield",
+      "stateOrProvince": "VA",
+      "postalCode": "22151",
+      "country": "US"
+    }
+  },
+  "locationInstructions": "Only online shipment",
+  "name": "Warehouse-1",
+  "phone": "2024314465",
+  "merchantLocationStatus": "ENABLED",
+  "locationTypes": [
+    "WAREHOUSE"
+  ]
+}

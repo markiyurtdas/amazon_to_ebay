@@ -1,0 +1,74 @@
+{
+  "demo_message": "* Demo results are truncated for brevity *",
+  "request_parameters": {
+    "ebay_domain": "ebay.com",
+    "type": "product",
+    "epid": "233599133856",
+    "include_html": "true"
+  },
+  "request_metadata": {
+    "ebay_url": "https://www.ebay.com/itm/233599133856?_fcid=1"
+  },
+  "product": {
+    "is_master": false,
+    "title": "SanDisk MicroSD Card Ultra SD Memory Card 16GB 32GB 64GB 128GB Smartphones lot",
+    "epid": "233599133856",
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.ebay.com/b/Electronics/bn_7000259124"
+      },
+      {
+        "name": "Cell Phones & Accessories",
+        "link": "https://www.ebay.com/b/Cell-Phones-Smart-Watches-Accessories/15032/bn_1865441"
+      },
+      {
+        "name": "Cell Phone Accessories",
+        "link": "https://www.ebay.com/b/Cell-Phone-Accessories/9394/bn_320095"
+      },
+      {
+        "name": "Memory Cards",
+        "link": "https://www.ebay.com/b/Cell-Phone-Memory-Cards/96991/bn_317518"
+      }
+    ],
+    "primary_image": "https://i.ebayimg.com/thumbs/images/g/AswAAOSwPMley-Gz/s-l500.jpg",
+    "description": "SanDisk MicroSD Card Ultra SD Memory Card 16GB 32GB 64GB 128GB Smartphones lot",
+    "description_external_url": "https://vi.vipr.ebaydesc.com/itmdesc/233599133856?t=1630679647000&category=96991&seller=benidata&excSoj=1&excTrk=1&lsite=0&ittenable=true&domain=ebay.com&descgauge=1&cspheader=1&oneClk=2&secureDesc=1&variationId=533284429253"
+  },
+  "returns_policy": {
+    "raw": "30 days returns. Seller pays for return shipping.",
+    "returns_accepted": true
+  },
+  "stock_status": {
+    "status": "in_stock"
+  },
+  "condition": {
+    "raw": "New",
+    "name": "new",
+    "is_new": true,
+    "is_used": false
+  },
+  "is_auction": false,
+  "offer": {
+    "price": 11.49,
+    "currency": "USD"
+  },
+  "seller": {
+    "name": "BENIDATA",
+    "link": "https://www.ebay.com/str/unomass",
+    "feedback_score": 30110,
+    "positive_feedback_percent": 99
+  },
+  "promotion": {
+    "why_buy": [
+      "Free shipping and returns.",
+      "7604 have already sold."
+    ]
+  },
+  "shipping": {
+    "service": "Expedited Shipping (FedEx 2Day®)",
+    "ships_to": "Afghanistan, Albania, Algeria, Andorra, Angola, Anguilla, Antigua and Barbuda, Argentina, Armenia, Aruba, Australia, Austria, Azerbaijan Republic, Bahamas, Bahrain, Bangladesh, Belgium, Belize, Benin, Bermuda, Bhutan, Bolivia, Bosnia and Herzegovina, Botswana, Brazil, Brunei Darussalam, Bulgaria, Burkina Faso, Burundi, Cambodia, Cameroon, Canada, Cape Verde Islands, Cayman Islands, Central African Republic, Chad, Chile, Colombia, Costa Rica, Cyprus, Czech Republic, Côte d'Ivoire (Ivory Coast), Democratic Republic of the Congo, Denmark, Djibouti, Dominican Republic, Ecuador, Egypt, El Salvador, Equatorial Guinea, Eritrea, Estonia, Ethiopia, Fiji, Finland, France, Gabon Republic, Gambia, Georgia, Ghana, Gibraltar, Greece, Greenland, Grenada, Guatemala, Guinea, Guinea-Bissau, Guyana, Haiti, Honduras, Hungary, Iceland, India, Indonesia, Ireland, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kiribati, Kuwait, Kyrgyzstan, Laos, Latvia, Lebanon, Lesotho, Liberia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Madagascar, Malawi, Malaysia, Maldives, Mali, Malta, Mauritania, Mauritius, Mexico, Moldova, Monaco, Mongolia, Montenegro, Montserrat, Morocco, Mozambique, Namibia, Nauru, Nepal, Netherlands, New Zealand, Nicaragua, Niger, Nigeria, Norway, Oman, Pakistan, Panama, Papua New Guinea, Paraguay, Peru, Philippines, Poland, Portugal, Qatar, Republic of Croatia, Republic of the Congo, Romania, Rwanda, Saint Kitts-Nevis, Saint Lucia, Saint Vincent and the Grenadines, San Marino, Saudi Arabia, Senegal, Serbia, Seychelles, Sierra Leone, Singapore, Slovakia, Slovenia, Solomon Islands, South Africa, South Korea, Spain, Sri Lanka, Suriname, Swaziland, Sweden, Switzerland, Taiwan, Tajikistan, Tanzania, Thailand, Togo, Tonga, Trinidad and Tobago, Tunisia, Turkey, Turkmenistan, Turks and Caicos Islands, Uganda, United Arab Emirates, United States, Uruguay, Uzbekistan, Vanuatu, Vatican City State, Vietnam, Wallis and Futuna, Western Samoa, Yemen, Zambia, Zimbabwe",
+    "location": "Miami, Florida, United States",
+    "delivery_estimate": "Estimated between Tue, Mar 26 and Wed, Mar 27 to 20147"
+  }
+}

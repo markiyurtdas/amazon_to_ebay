@@ -1,0 +1,406 @@
+{
+  "total": 7,
+  "fulfillmentPolicies": [
+    {
+      "name": "Flat: ShippingMethodStandard free, 3 business  (242758532017)",
+      "marketplaceId": "EBAY_US",
+      "categoryTypes": [
+        {
+          "name": "ALL_EXCLUDING_MOTORS_VEHICLES",
+          "default": false
+        }
+      ],
+      "handlingTime": {
+        "value": 3,
+        "unit": "DAY"
+      },
+      "shipToLocations": {
+        "regionExcluded": [
+          {
+            "regionName": "Alaska/Hawaii"
+          },
+          {
+            "regionName": "APO/FPO"
+          },
+          {
+            "regionName": "PO Box"
+          },
+          {
+            "regionName": "US Protectorates"
+          }
+        ]
+      },
+      "shippingOptions": [
+        {
+          "optionType": "DOMESTIC",
+          "costType": "FLAT_RATE",
+          "shippingServices": [
+            {
+              "sortOrder": 1,
+              "shippingCarrierCode": "GENERIC",
+              "shippingServiceCode": "ShippingMethodStandard",
+              "shippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "additionalShippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "freeShipping": true,
+              "buyerResponsibleForShipping": false,
+              "buyerResponsibleForPickup": false
+            }
+          ],
+          "shippingDiscountProfileId": "0",
+          "shippingPromotionOffered": false
+        }
+      ],
+      "globalShipping": false,
+      "pickupDropOff": false,
+      "freightShipping": false,
+      "fulfillmentPolicyId": "242758532017"
+    },
+    {
+      "name": "Flat: ShippingMethodExpress free, 3 business d (242758920017)",
+      "marketplaceId": "EBAY_US",
+      "categoryTypes": [
+        {
+          "name": "ALL_EXCLUDING_MOTORS_VEHICLES",
+          "default": false
+        }
+      ],
+      "handlingTime": {
+        "value": 3,
+        "unit": "DAY"
+      },
+      "shipToLocations": {
+        "regionExcluded": [
+          {
+            "regionName": "Alaska/Hawaii"
+          },
+          {
+            "regionName": "APO/FPO"
+          },
+          {
+            "regionName": "PO Box"
+          },
+          {
+            "regionName": "US Protectorates"
+          }
+        ]
+      },
+      "shippingOptions": [
+        {
+          "optionType": "DOMESTIC",
+          "costType": "FLAT_RATE",
+          "shippingServices": [
+            {
+              "sortOrder": 1,
+              "shippingCarrierCode": "GENERIC",
+              "shippingServiceCode": "ShippingMethodExpress",
+              "shippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "additionalShippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "freeShipping": true,
+              "buyerResponsibleForShipping": false,
+              "buyerResponsibleForPickup": false
+            }
+          ],
+          "shippingDiscountProfileId": "0",
+          "shippingPromotionOffered": false
+        }
+      ],
+      "globalShipping": false,
+      "pickupDropOff": false,
+      "freightShipping": false,
+      "fulfillmentPolicyId": "242758920017"
+    },
+    {
+      "name": "Flat: Other free, 15 business days (242759131017)",
+      "marketplaceId": "EBAY_US",
+      "categoryTypes": [
+        {
+          "name": "ALL_EXCLUDING_MOTORS_VEHICLES",
+          "default": false
+        }
+      ],
+      "handlingTime": {
+        "value": 15,
+        "unit": "DAY"
+      },
+      "shipToLocations": {
+        "regionExcluded": [
+          {
+            "regionName": "Alaska/Hawaii"
+          },
+          {
+            "regionName": "APO/FPO"
+          },
+          {
+            "regionName": "PO Box"
+          },
+          {
+            "regionName": "US Protectorates"
+          }
+        ]
+      },
+      "shippingOptions": [
+        {
+          "optionType": "DOMESTIC",
+          "costType": "FLAT_RATE",
+          "shippingServices": [
+            {
+              "sortOrder": 1,
+              "shippingCarrierCode": "GENERIC",
+              "shippingServiceCode": "Other",
+              "shippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "additionalShippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "freeShipping": true,
+              "buyerResponsibleForShipping": false,
+              "buyerResponsibleForPickup": false
+            }
+          ],
+          "shippingDiscountProfileId": "0",
+          "shippingPromotionOffered": false
+        }
+      ],
+      "globalShipping": false,
+      "pickupDropOff": false,
+      "freightShipping": false,
+      "fulfillmentPolicyId": "242759131017"
+    },
+    {
+      "name": "Calculated: USPSParcel , 3 business days (242759146017)",
+      "marketplaceId": "EBAY_US",
+      "categoryTypes": [
+        {
+          "name": "ALL_EXCLUDING_MOTORS_VEHICLES",
+          "default": false
+        }
+      ],
+      "handlingTime": {
+        "value": 3,
+        "unit": "DAY"
+      },
+      "shipToLocations": {},
+      "shippingOptions": [
+        {
+          "optionType": "DOMESTIC",
+          "costType": "CALCULATED",
+          "shippingServices": [
+            {
+              "sortOrder": 1,
+              "shippingCarrierCode": "USPS",
+              "shippingServiceCode": "USPSParcel",
+              "freeShipping": false,
+              "buyerResponsibleForShipping": false,
+              "buyerResponsibleForPickup": false
+            }
+          ],
+          "packageHandlingCost": {
+            "value": "0.0",
+            "currency": "USD"
+          },
+          "shippingDiscountProfileId": "0",
+          "shippingPromotionOffered": false
+        }
+      ],
+      "globalShipping": false,
+      "pickupDropOff": false,
+      "freightShipping": false,
+      "fulfillmentPolicyId": "242759146017"
+    },
+    {
+      "name": "Flat: ShippingMethodOvernight free, 3 business (242761879017)",
+      "marketplaceId": "EBAY_US",
+      "categoryTypes": [
+        {
+          "name": "ALL_EXCLUDING_MOTORS_VEHICLES",
+          "default": false
+        }
+      ],
+      "handlingTime": {
+        "value": 3,
+        "unit": "DAY"
+      },
+      "shipToLocations": {
+        "regionExcluded": [
+          {
+            "regionName": "Alaska/Hawaii"
+          },
+          {
+            "regionName": "APO/FPO"
+          },
+          {
+            "regionName": "PO Box"
+          },
+          {
+            "regionName": "US Protectorates"
+          }
+        ]
+      },
+      "shippingOptions": [
+        {
+          "optionType": "DOMESTIC",
+          "costType": "FLAT_RATE",
+          "shippingServices": [
+            {
+              "sortOrder": 1,
+              "shippingCarrierCode": "GENERIC",
+              "shippingServiceCode": "ShippingMethodOvernight",
+              "shippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "additionalShippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "freeShipping": true,
+              "buyerResponsibleForShipping": false,
+              "buyerResponsibleForPickup": false
+            }
+          ],
+          "shippingDiscountProfileId": "0",
+          "shippingPromotionOffered": false
+        }
+      ],
+      "globalShipping": false,
+      "pickupDropOff": false,
+      "freightShipping": false,
+      "fulfillmentPolicyId": "242761879017"
+    },
+    {
+      "name": "Flat: ShippingMethodStandard free, 5 business  (242761880017)",
+      "marketplaceId": "EBAY_US",
+      "categoryTypes": [
+        {
+          "name": "ALL_EXCLUDING_MOTORS_VEHICLES",
+          "default": false
+        }
+      ],
+      "handlingTime": {
+        "value": 5,
+        "unit": "DAY"
+      },
+      "shipToLocations": {
+        "regionExcluded": [
+          {
+            "regionName": "Alaska/Hawaii"
+          },
+          {
+            "regionName": "APO/FPO"
+          },
+          {
+            "regionName": "PO Box"
+          },
+          {
+            "regionName": "US Protectorates"
+          }
+        ]
+      },
+      "shippingOptions": [
+        {
+          "optionType": "DOMESTIC",
+          "costType": "FLAT_RATE",
+          "shippingServices": [
+            {
+              "sortOrder": 1,
+              "shippingCarrierCode": "GENERIC",
+              "shippingServiceCode": "ShippingMethodStandard",
+              "shippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "additionalShippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "freeShipping": true,
+              "buyerResponsibleForShipping": false,
+              "buyerResponsibleForPickup": false
+            }
+          ],
+          "shippingDiscountProfileId": "0",
+          "shippingPromotionOffered": false
+        }
+      ],
+      "globalShipping": false,
+      "pickupDropOff": false,
+      "freightShipping": false,
+      "fulfillmentPolicyId": "242761880017"
+    },
+    {
+      "name": "Flat: Other free, 3 business days (242763417017)",
+      "marketplaceId": "EBAY_US",
+      "categoryTypes": [
+        {
+          "name": "ALL_EXCLUDING_MOTORS_VEHICLES",
+          "default": false
+        }
+      ],
+      "handlingTime": {
+        "value": 3,
+        "unit": "DAY"
+      },
+      "shipToLocations": {
+        "regionExcluded": [
+          {
+            "regionName": "Alaska/Hawaii"
+          },
+          {
+            "regionName": "APO/FPO"
+          },
+          {
+            "regionName": "PO Box"
+          },
+          {
+            "regionName": "US Protectorates"
+          }
+        ]
+      },
+      "shippingOptions": [
+        {
+          "optionType": "DOMESTIC",
+          "costType": "FLAT_RATE",
+          "shippingServices": [
+            {
+              "sortOrder": 1,
+              "shippingCarrierCode": "GENERIC",
+              "shippingServiceCode": "Other",
+              "shippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "additionalShippingCost": {
+                "value": "0.0",
+                "currency": "USD"
+              },
+              "freeShipping": true,
+              "buyerResponsibleForShipping": false,
+              "buyerResponsibleForPickup": false
+            }
+          ],
+          "shippingDiscountProfileId": "0",
+          "shippingPromotionOffered": false
+        }
+      ],
+      "globalShipping": false,
+      "pickupDropOff": false,
+      "freightShipping": false,
+      "fulfillmentPolicyId": "242763417017"
+    }
+  ]
+}
